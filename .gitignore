@@ -1,0 +1,6 @@
+.venv
+infra/.terraform
+infra/.terraform.lock.hcl
+volume
+deploy
+terraform.tfstate.backup

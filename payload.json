@@ -1,0 +1,6 @@
+{
+    "customer_id": "2214c776-1556-4d24-bcaf-f794bbde117b",
+    "value": "1500.34",
+    "status": "VALIDATED",
+    "document_uri": "s3://test-bucket/test-document.pdf"
+}
